@@ -4,20 +4,20 @@ This repository contains the case study and data analysis project completed as p
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 Cyclistic is a fictional bike-share company based in Chicago with over 5,800 bicycles and 600 docking stations. While the company offers flexible pricing (single-ride and full-day passes), financial analysts have concluded that **annual members are significantly more profitable** than casual riders. 
 
 The goal of this marketing campaign is to design strategies aimed at **converting existing casual riders into annual members**. Because casual riders are already familiar with the Cyclistic brand, they represent a high-potential growth opportunity.
 
 ---
 
-## ❓ Business Question
+## Business Question
 To guide the marketing strategy, this analysis answers a core question:
 > **How do annual members and casual riders use Cyclistic bikes differently?**
 
 ---
 
-## 💾 Data Source & Structure
+## Data Source & Structure
 The analysis utilizes 12 months of historical trip data from the full calendar year **2025** (January through December), representing real-world trip records from Chicago's Divvy bike-share system. 
 
 Each monthly dataset contains the following key dimensions:
@@ -30,7 +30,7 @@ Each monthly dataset contains the following key dimensions:
 
 ---
 
-## 🛠️ Data Processing & Transformations
+## Data Processing & Transformations
 Data integrity checks, cleaning, and transformations were performed using **R**. 
 
 ### Cleaning Steps:
@@ -46,7 +46,7 @@ Data integrity checks, cleaning, and transformations were performed using **R**.
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 ### 1. Weekend vs. Weekday Behavior
 * **Members** ride consistently throughout the week, peaking Tuesday–Thursday, strongly indicating **commute-driven usage**.
@@ -61,7 +61,7 @@ Data integrity checks, cleaning, and transformations were performed using **R**.
 
 ---
 
-## 🚀 Marketing Recommendations
+## Marketing Recommendations
 
 1. **Targeted Weekend Promotions:** Launch weekend-specific membership passes or discount annual offers pushed via app notifications on Friday evenings/Saturday mornings.
 2. **Cost-Savings Messaging:** Create direct marketing campaigns demonstrating how a membership is highly cost-effective for longer rides (e.g., *"10 long rides as a casual rider = cost of an annual membership"*).
@@ -69,7 +69,7 @@ Data integrity checks, cleaning, and transformations were performed using **R**.
 
 ---
 
-## 💻 Repository Contents
+## Repository Contents
 * `/scripts` : Contains the full R script utilized for data cleaning, transformation, and aggregation.
 * `/data` : Summary tables or data dictionary (Note: Raw large datasets are ignored via `.gitignore`).
 * `/presentation` : Link or file to the final executive summary slide deck.
