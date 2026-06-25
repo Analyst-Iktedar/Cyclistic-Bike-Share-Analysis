@@ -1,4 +1,4 @@
-# Cyclistic Bike-Share Analysis: How Does a Bike-Share Navigate Speedy Success?
+# Bike-Share Rider Behavior Analysis: Converting Casual Riders to Annual Members
 
 This repository contains the case study and data analysis project completed as part of the **Google Data Analytics Professional Certificate** capstone. The project follows the structured data analysis framework: **Ask, Prepare, Process, Analyze, Share, and Act**.
 
