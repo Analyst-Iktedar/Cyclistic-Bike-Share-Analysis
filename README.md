@@ -69,11 +69,4 @@ Data integrity checks, cleaning, and transformations were performed using **R**.
 
 ---
 
-## Repository Contents
-* `/scripts` : Contains the full R script utilized for data cleaning, transformation, and aggregation.
-* `/data` : Summary tables or data dictionary (Note: Raw large datasets are ignored via `.gitignore`).
-* `/presentation` : Link or file to the final executive summary slide deck.
-
----
-
 *This project was completed as part of the Google Data Analytics Capstone (2025).*
